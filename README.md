@@ -38,6 +38,6 @@ In CDM economy, you have the more expensive price for the oppressors, and the CD
 ### Discount App
 * See ![spring-discount.md]
 * See [spring-discount]
-* See ![spring-discount]
+* See Spring Discount App(spring-discount.md)
 
 ## Guidelines (Burmese)
