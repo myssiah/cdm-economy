@@ -35,4 +35,7 @@ In CDM economy, you have the more expensive price for the oppressors, and the CD
 ### CDM Support Groups
 * Distribute Single Use activation code for discount apps
 
+### Discount App
+* See [spring-discount.md]
+
 ## Guidelines (Burmese)
