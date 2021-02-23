@@ -14,8 +14,8 @@ In CDM economy, you have the more expensive price for the oppressors, and the CD
 * We will use reasonable method and technology to identify who are valid CDM particpants.
 
 ## Manifesto (Burmese)
-* For our goods and services, we will charge much more the military, police and their family
-* For our goods and services, we will charge less for CDM participants, and disadvantaged people
+* For our goods and services, we will charge much more to the military, police and their family
+* For our goods and services, we will charge much less to CDM participants, and disadvantaged people
 * We will use reasonable method and technology to identify who are valid CDM particpants.
 * We will use any means to squeeze money out of oppressor and their families
 * We will makes plans and actions to keep run our businesses under CDM Economy for long term (6-12 months)
