@@ -8,7 +8,7 @@ In a black market economy, you have the public price (cheaper) and the black mar
 
 In CDM economy, you have the more expensive price for the military and their assosciates, and the CDM discount for CDM participants and disadvantaged people.
 
-## Manifesto (English)
+## Manifesto
 * For our goods and services, we will charge much more to the military, police and their family
 * For our goods and services, we will charge much less to CDM participants, and disadvantaged people
 * We will use reasonable method and technology to identify who are valid CDM particpants.
@@ -18,7 +18,7 @@ In CDM economy, you have the more expensive price for the military and their ass
 ## Manifesto (Burmese)
 TBC
 
-## Guidelines (English)
+## Guidelines
 
 ### Food Vendors and Restaurants
 * Charge 2x to people in military and police
@@ -39,3 +39,7 @@ TBC
 * See [Spring Discount App](spring-discount.md)
 
 ## Guidelines (Burmese)
+
+## Retalisation
+
+See [Retaliation](retaliation.md)
