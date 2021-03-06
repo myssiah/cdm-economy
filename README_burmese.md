@@ -39,31 +39,6 @@ CDM စီးပွါးရေးစနစ်သည် မှောင်ခိ
 
     ‌ကျွန်တော်တို့ ပြုစုထားသော အောက်ပါ [အကြံပြုချက်များ](#အကြံပြုချက်များ)မှ သင့်လုပ်ငန်းနှင့် ဆီလျော်ရာကို ရှာဖွေ လုပ်ဆောင်နိုင်ပါသည်။ အကယ်၍ သင့်လုပ်ငန်းအမျိုးအစားနှင့် ဆီလျော်ရာ အကြံပြုချက်များ မရှိသေးပါက "tallalchemist001@gmail.com" ကို ဆက်သွယ်ပါ။
 
-## Guidelines
-
-### Food Vendors and Restaurants
-* Charge 2x to people in military and police
-* Charge 1 to 1.5x to people with seeming good income
-* Charge half price to CDM participants
-* If possible, use the CDM discount app to validate eligible person
-
-### Stores and Supermrkets
-* Set ordinary price to 1.5x
-* Give 50% discount for CDM participants
-* Do not pay Tax to the government
-* If possible, use the CDM discount app to validate eligible person
-
-### CDM Support Groups
-* Distribute Single Use activation code for discount apps
-
-### Discount Verification App
-* See [Spring Discount App](spring-discount.md)
-
-## Retalisation
-
-See [Retaliation](retaliation.md)
-
-
 
 ## အကြံပြုချက်များ 
 
