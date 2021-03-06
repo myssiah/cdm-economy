@@ -1,56 +1,34 @@
-# CDM စီးပွါးရေးစံနစ် | CDM Economy
+[မြန်မာဘာသာဖြင့် ဖတ်ရှုရန်](README_burmese.md)
 
-CDM စီးပွါးရေးစံနစ်သည် ပြည်သူများ ရုံးမတက်အာဏာဖီဆန်ခြင်းလှုပ်ရှားမှုကို တာရှည်ခံစေ၍ ပိုမိုခိုင်မာစေမည်ဖြစ်ပါသည်။ 
+# CDM Economy
 
-CDM စီးပွါးရေးဆိုတာဘာလဲ။
+## Objectives of CDM Economy
 
-CDM စီးပွါးရေးစံနစ်သည် မှောင်ခိုစျေးကွက်၏ဆန့်ကျင်ဘက်ဖြစ်သည်။
+1. To sustain the resistance against 2021 Feburary Military Coup for longer terms
 
-မှောင်ခိုစျေးကွက်တွင် စျေးအမျိုးမျိုးရှိသည်။ တရားဝင်စျေးနှုန်းက ပိုမိုသက်သာသော်လည်း ဝယ်၍ကားမရ။ မှောင်ခိုဝယ်လျင်ရနိုင်သည် ဒါပေမယ့် ပိုဈေးကြီးသည်။
-ထို့အတူ CDM စီးပွါးရေးစံနစ်တွင် စစ်တပ်နှင့် စစ်တပ်ဆက်နွယ်လုပ်ငန်းများ အတွက်ပိုမို မြင့်မားသောစျေးနှုန်းသတ်မှတ်ချက် ထားရှိမည်ဖြစ်ပြီး CDM ပါဝင်သည့်သူများအတွက် သက်သာသောအထူးနှုန်း ထားရှိမည်ဖြစ်သည်။
+2. To support the participants of Civil Disobedience Movement (CDM) that resists the Military Coup
 
-(English)
+3. To pragmatically execute the Social Punishment Movement that resists the Military Coup
 
-CDM economy will strengthen the CDM movement, and sustain this over a longer period.
+## What is CDM Economy? 
 
-What is CDM Economy? It is like black market economy but the opposite.
+It is similar to black market economy but the opposite.
 
-In a black market economy, you have the public price (cheaper) and the black market price (more expensive.)
-In CDM economy, you have the more expensive price for the military and their assosciates, and the CDM discount for CDM participants and disadvantaged people.
+In a black market economy, you have the advertised price (cheaper but not available) and the black market price (more expensive but available).
 
-## သံဒိဌာန် | Manifesto
+Likewise, in the CDM economy, you have the more expensive price for the military and their assosciates (personnel, organisation or businesses), and the CDM discount for CDM participants and people that we deem fit.
 
-* ကျွန်တော်တို့၏ ဝန်ဆောင်မှုများအတွက် စစ်တပ်နှင့်ရဲ ဝန်ထမ်းများ နှင့် ၎င်းတို့၏မိသားစုဝင်များ အားစျေးနှုန်း ပိုမြှင့်မည်ဖြစ်သည် 
-* ကျွန်တော်တို့၏ ဝန်ဆောင်မှုများအတွက် CDM ပါဝင်သူများ အောက်ခြေလူတန်းစားများ အားပိုသက်သာသောစျေးနှုန်းထားရှိမည်ဖြစ်သည်
-* ကျွန်တော်တို့သည် ဖိနှိပ်သူလူတန်းစားများဆီမှ ငွေကြေးများထွက်စေရန်နည်းမျိုးစုံဖြင့်လုပ်ဆောင်မည်ဖြစ်သည် 
-* CDM စီးပွါးရေးစံနစ်တွင် ကျွန်တော်တို့သည် စီးပွါးရေးလုပ်ငန်းများ ကို (၆လ မှ ၁၂ လ အထိ) ရေရှည်ဆက်လက်တည်ရှိစေရန် စီစဉ်ဆောင်ရွက်သွားမည်ဖြစ်သည် 
+## The CDM Economy Manifesto
 
-(English)
+We, the people, will
 
-* For our goods and services, we will charge much more to the military, police and their family
-* For our goods and services, we will charge much less to CDM participants, and disadvantaged people
-* We will use reasonable method and technology to identify who are valid CDM particpants.
-* We will use any means to squeeze money out of oppressor and their families
-* We will makes plans and actions to keep run our businesses under CDM Economy for long term (6-12 months)
+* Use any means to squeeze money out of oppressor and their families
+* Charge a large price to the military, police, their family and associated organisations and businesses for our goods and services
+* Charge a reasonably lower price to CDM participants, and people we deem fit, for our goods and services
+* Ensure to keep our businesses running and available under CDM Economy for long term (6-12 months)
+* Exploit reasonable methods and technologies to fulfil our aforementioned pledges 
 
-## အကြံပြုချက်များ | Guidelines
-
-### စားသောက်ဆိုင်လုပ်ငန်းများ
-* စစ်သားနှင့်ရဲ များအား စျေးနှစ်ဆတောင်းဆိုရန်
-* ဝင်ငွေကောင်းမည်ထင်သည့်သူများအား စျေးနှူန်းတစ်ဆ နှင့် တစ်ဆခွဲတောင်းဆိုရန်
-* CDM လုပ်ဆောင်သူများအား စျေးနှုန်းတစ်ဝက်သာ ယူရန်
-* CDM discount app ဖန်တီး၍ ပါဝင်သူဖြစ်မဖြစ် စစ်ဆေးရန်
-
-### စတိုးဆိုင်နှင့် Supermarket များ
-* ပုံမှန်စျေး ထက် ၁ ဆခွဲစျေးတင်ရန်
-* CDM ပါဝင်သူများအား ငါးဆယ်ရာခိုင်နှုန်း စျေးချပေးရန်
-* အစိုးရအားအခွန်မဆောင်ရန်
-* CDM discount app ဖန်တီး၍ ပါဝင်သူဖြစ်မဖြစ် စစ်ဆေးရန်
-
-### CDM အားပေးအဖွဲ့အစည်းများ
-* CDM discount app တစ်ခါသုံး activation code များအား ဖြန့်ချိရန်
-
-
+## Guidelines
 
 ### Food Vendors and Restaurants
 * Charge 2x to people in military and police
@@ -69,8 +47,6 @@ In CDM economy, you have the more expensive price for the military and their ass
 
 ### Discount Verification App
 * See [Spring Discount App](spring-discount.md)
-
-## Guidelines (Burmese)
 
 ## Retalisation
 
