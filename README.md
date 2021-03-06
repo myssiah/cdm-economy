@@ -28,6 +28,16 @@ We, the people, will
 * Ensure to keep our businesses running and available under CDM Economy for long term (6-12 months)
 * Exploit reasonable methods and technologies to fulfil our aforementioned pledges 
 
+## Frequently Asked Questions (FAQs)
+
+* Who can pledge the Manifesto and participate ? 
+
+    Any one who is selling goods and services, from grocery sellers in the markets and tri-cycle captains to large conglomerates such as chained supermarkets and high-end resturants/clubs/bars/hotels. 
+
+* How to determine the details ? The Manifesto is short and vague.
+
+    Refer to the [Guidelines](#Guidelines) for the guidelines we compile for the specific type of business. If your business is not listed, contact "tallalchemist001@gmail.com".
+
 ## Guidelines
 
 ### Food Vendors and Restaurants
